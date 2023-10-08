@@ -66,8 +66,13 @@
     <p>- Bergantung pada pilihan pengguna, metode seperti pilihanBangunRuang(), crud.create(), crud.read(), dll., dipanggil.</p>
   </ul>
   <li>Class parent_bentuk</li>
+  <p><t>Class parent_bentuk adalah kelas abstrak yang menyediakan dua metode abstrak: hitungLuas dan hitungVolume. Kelas turunan yang mewarisi kelas ini wajib memberikan implementasi untuk kedua metode tersebut. Ini memungkinkan untuk menggeneralisasi perilaku yang berkaitan dengan menghitung luas dan volume dari bentuk-bentuk tertentu (yang akan diimplementasikan dalam kelas-kelas turunan).</p>
   <li>Class crud</li>
+  <p>Program ini menyediakan fungsi-fungsi untuk membuat, membaca, memperbarui, dan menghapus objek-objek geometri, serta melakukan perhitungan terkait dengan objek-objek tersebut. Program ini memanfaatkan konsep objek dan pengelolaan koleksi menggunakan ArrayList.</p>
   <li>Class bola</li>
+  <p>Kelas bola merepresentasikan objek bola dalam geometri. Itu memiliki atribut jariJari dan tinggi, dan dapat menghitung luas dan volume sesuai dengan rumus yang diberikan.kelas bola juga mewarisi dan mengimplementasikan metode dari kelas parent_bentuk.</p>
   <li>Class balok</li>
+  <p>Kelas balok merepresentasikan objek balok dalam geometri. Itu memiliki atribut tinggi, panjang, dan lebar, dan dapat menghitung luas permukaan serta volume sesuai dengan rumus yang diberikan. Kelas balok juga mewarisi dan mengimplementasikan metode dari kelas parent_bentuk.</p>
   <li>Class prisma_segitiga</li>
+  <p>Kelas prisma_segitiga merepresentasikan objek prisma segitiga dalam geometri. Itu memiliki atribut luasAlas, luasSelimut, dan tinggi, dan dapat menghitung luas permukaan serta volume sesuai dengan rumus yang diberikan. Kelas prisma_segitiga juga mewarisi dan mengimplementasikan metode dari kelas parent_bentuk.</p>
 </ol>
