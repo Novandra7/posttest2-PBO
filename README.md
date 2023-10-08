@@ -107,13 +107,17 @@
   <li>ArrayList Kosong</li>
 
   ![arraylist kosong](https://github.com/Novandra7/posttest2-PBO/assets/122107967/1b3b7092-7005-4ca1-a93f-3af545565494)
+  <p>Gambar diatas adalah output jika ArrayList masih belum terisi oleh objek</p>
 
   <li>Salah Input</li>
 
   ![masukkan angka](https://github.com/Novandra7/posttest2-PBO/assets/122107967/471a792f-347a-4c20-a296-dbb91fd6051f)
+  <p>Gambar diatas adalah output jika user menginputkan selain angka ke dalam properti yang dinutuhkan objek</p>
 
   <li>EXIT</li>
 
   ![exit](https://github.com/Novandra7/posttest2-PBO/assets/122107967/35aadbf7-b24f-4fd2-afb8-87357770bfb5)
-
+  <p>Gambar diatas adalah output jika user memilih 6 pada menu utama</p>
 </ol>
+
+<h1>TAMAT</h1>
