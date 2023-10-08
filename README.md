@@ -47,3 +47,27 @@
   ![gs](https://github.com/Novandra7/posttest2-PBO/assets/122107967/4b1e8749-72e0-4843-94ba-5d55c97d3973)
   ![ovr](https://github.com/Novandra7/posttest2-PBO/assets/122107967/31bab10e-e669-484d-bb71-84fd25903826)
 </ol>
+
+<h2>B. Penjelasan Source Code</h2>
+<ol>
+  <li>Class Main</li>
+  <ul>
+    <li>Penyataan Impor</li>
+    <p>- Mengimpor kelas-kelas dari paket com.CRUD (yang kemungkinan berisi operasi untuk Create, Read, Update, dan Delete pada beberapa data).</p>
+    <p>- Mengimpor kelas Scanner dari paket java.util, yang digunakan untuk membaca masukan dari pengguna.</p>
+    <li>Deklarasi Kelas</li>
+    <p>- Kelas ini diberi nama Main. Kata kunci public berarti bahwa kelas ini dapat diakses dari kelas lain. Kata kunci final berarti bahwa kelas ini tidak dapat diwariskan (yaitu, tidak dapat diperluas).</p>
+    <li>Pengulangan Menu</li>
+    <p>- Ini memulai pengulangan tak terbatas (while(true)), yang berarti menu akan terus muncul sampai program dihentikan secara manual.</p>
+    <li>Opsi Menu</li>
+    <p>- Dalam loop, menu dengan beberapa opsi ditampilkan kepada pengguna. Pengguna diminta untuk memasukkan pilihan mereka.</p>
+    <p>- Bergantung pada masukan pengguna, blok kode tertentu dieksekusi. Ini menggunakan pernyataan switch dengan kasus untuk berbagai opsi.</p>
+    <li>Panggilan Method</li>
+    <p>- Bergantung pada pilihan pengguna, metode seperti pilihanBangunRuang(), crud.create(), crud.read(), dll., dipanggil.</p>
+  </ul>
+  <li>Class parent_bentuk</li>
+  <li>Class crud</li>
+  <li>Class bola</li>
+  <li>Class balok</li>
+  <li>Class prisma_segitiga</li>
+</ol>
