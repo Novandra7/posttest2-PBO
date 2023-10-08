@@ -8,10 +8,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public final class crud {
-    static final Object create = null;
-    static final Object read = null;
-    static final Object update = null;
-    static final Object delete = null;
     static final Scanner input = new Scanner(System.in);
     static final ArrayList<bola> arrayBola = new ArrayList<>();
     static final ArrayList<balok> arrayBalok = new ArrayList<>();
