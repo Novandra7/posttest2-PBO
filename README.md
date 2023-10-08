@@ -76,3 +76,44 @@
   <li>Class prisma_segitiga</li>
   <p>Kelas prisma_segitiga merepresentasikan objek prisma segitiga dalam geometri. Itu memiliki atribut luasAlas, luasSelimut, dan tinggi, dan dapat menghitung luas permukaan serta volume sesuai dengan rumus yang diberikan. Kelas prisma_segitiga juga mewarisi dan mengimplementasikan metode dari kelas parent_bentuk.</p>
 </ol>
+
+<h2>C. Penjelasan Output</h2>
+<ol>
+  <li>create</li>
+
+  ![create](https://github.com/Novandra7/posttest2-PBO/assets/122107967/02cb1b3e-99b3-46d3-ba40-d4b47b6ad8bd)
+  <p>Jadi, jika pengguna memilih opsi "1", maka program akan meminta input jari-jari bola dan tinggi bola, membuat objek bola baru, dan menambahkannya ke ArrayList arrayBola. Jika pengguna memilih opsi "2" atau "3", program akan melakukan operasi serupa untuk bangun ruang lainnya.</p>
+
+  <li>read</li>
+
+  ![read](https://github.com/Novandra7/posttest2-PBO/assets/122107967/dfdbf6e3-5b44-463e-ba45-2f01cf1727f3)
+  <p>Jadi, output dari fungsi read akan tergantung pada apa yang terdapat dalam ArrayList terkait. Jika ArrayList kosong, maka program akan mencetak pesan bahwa ArrayList masih kosong. Jika tidak, program akan mencetak informasi dari objek-objek yang ada di dalamnya sesuai dengan tipe bangun ruang yang dipilih.</p>
+
+  <li>update</li>
+
+  ![update](https://github.com/Novandra7/posttest2-PBO/assets/122107967/ccdeceb6-4fec-4ecc-a325-8f1e7524cc28)
+  <p>Jadi, output dari fungsi update akan tergantung pada pilihan dan input yang dimasukkan oleh pengguna. Jika pengguna memasukkan nomor atau data yang tidak valid, program akan memberikan pesan kesalahan. Jika pengguna memasukkan input yang valid, data objek yang terkait akan diperbarui sesuai dengan input baru.</p>
+
+  <li>delete</li>
+
+  ![delete](https://github.com/Novandra7/posttest2-PBO/assets/122107967/0f0d2d9e-f162-46e4-8e0f-7469d97de085)
+  <p>Jadi, output dari fungsi delete akan tergantung pada pilihan dan input yang dimasukkan oleh pengguna. Jika pengguna memasukkan nomor atau data yang tidak valid, program akan memberikan pesan kesalahan. Jika pengguna memasukkan input yang valid dan objek berhasil dihapus dan pesan sukses akan dicetak.</p>
+
+  <li>perhitungan</li>
+
+  ![perhitungan](https://github.com/Novandra7/posttest2-PBO/assets/122107967/ef0e7eee-fc9a-490d-93a8-889d6c90fa1e)
+  <p>Jadi, output dari fungsi perhitungan akan tergantung pada pilihan dan input yang dimasukkan oleh pengguna. Hasil perhitungan luas dan volume akan dicetak sesuai dengan objek yang dipilih oleh pengguna. Jika pengguna memasukkan nomor atau data yang tidak valid, program akan memberikan pesan kesalahan.</p>
+
+  <li>ArrayList Kosong</li>
+
+  ![arraylist kosong](https://github.com/Novandra7/posttest2-PBO/assets/122107967/1b3b7092-7005-4ca1-a93f-3af545565494)
+
+  <li>Salah Input</li>
+
+  ![masukkan angka](https://github.com/Novandra7/posttest2-PBO/assets/122107967/471a792f-347a-4c20-a296-dbb91fd6051f)
+
+  <li>EXIT</li>
+
+  ![exit](https://github.com/Novandra7/posttest2-PBO/assets/122107967/35aadbf7-b24f-4fd2-afb8-87357770bfb5)
+
+</ol>
